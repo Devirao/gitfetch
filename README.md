@@ -7,3 +7,4 @@ another new line
 another line
 new line with new version
 new
+new one

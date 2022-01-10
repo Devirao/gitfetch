@@ -8,3 +8,4 @@ another line
 new line with new version
 new
 new one
+this is one new line

@@ -4,3 +4,4 @@ another file
 another new line
 another new line
 another new line
+another line

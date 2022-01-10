@@ -5,3 +5,4 @@ another new line
 another new line
 another new line
 another line
+new line with new version
